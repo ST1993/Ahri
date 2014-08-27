@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">阿狸阅读</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_desc">美好生活</string>
+   <string name="my_ahri">我的宝蓝</string>
+    <string name="banbenhao">版本号</string>
+</resources>
